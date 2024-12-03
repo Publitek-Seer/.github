@@ -1,43 +1,22 @@
-# Hi there, Welcome to Seer! 👋
+# Welcome to Seer! 👋
 
-Seer is where data meets innovation. We are dedicated to building cutting-edge tools and platforms that empower users with insights, automation, and scalability. Our mission is to make data accessible and actionable for Publitek clients and data partners.
+Seer is a hub of innovation where data-driven tools and platforms come to life. Our mission is to empower individuals and businesses with actionable insights, streamlined workflows, and scalable solutions. 
 
-## 🌟 Explore Seer Projects
+## 🌟 Who We Are
 
-Here are some key repositories in our organisation:
+We specialize in:
+- Building tools that simplify complex data systems.
+- Delivering insights that drive impactful decisions.
+- Supporting growth through innovative software solutions.
 
-- **[Seer-Core](https://github.com/Publitek-Seer/Seer-Core)**  
-  The backbone of our back-end infrastructure.
+## 🌈 Join the Journey
 
-- **[Seer Insights (Seer Newsletters)](https://github.com/Publitek-Seer/seer-newsletters)**  
-  Curated insights and newsletter HTML generator.
-
-- **[Seer Client Portal](https://github.com/Publitek-Seer/Seer-Client-Portal)**  
-  The gateway to Seer’s client-facing applications (soon to be replaced by app router).
-
-- **[Seer Client Portal App Router](https://github.com/Publitek-Seer/seer-client-portal-app-router)**  
-  Powered by **[Seer Data](https://github.com/Publitek-Seer/seer-data)**.
-
-- **[Seer Aggregator](https://github.com/Publitek-Seer/Seer-Aggregator)**  
-  Aggregate and transform data.
-
-- **[Seer Terraform](https://github.com/Publitek-Seer/Seer-Terraform)**  
-  Infrastructure as code with Terraform.
-
-- **[Seer Tag](https://github.com/Publitek-Seer/Seer-Tag)**  
-  Auto-tagging data with  ML.
-
-- **[Seer Extractor](https://github.com/Publitek-Seer/Seer-Extractor)**  
-  Extract and process data from publications efficiently.
-
-## 🌈 Get Involved
-
-Whether you’re fixing bugs, proposing features, or enhancing documentation, your help makes Seer better. Check out individual repositories for contribution guidelines.
+We welcome collaborators and contributors who share our passion for leveraging data to create meaningful change. If you're interested in our work, feel free to reach out and explore opportunities to get involved.
 
 ## 📚 Resources
 
-For more information, explore the documentation and code in each repository. If you have questions, feel free to open an issue or contact us.
+Looking for more information about what we do? Visit our documentation and resources within our platforms or get in touch with us directly.
 
 ---
 
-Thank you for being part of the Seer community. Together, we can turn data into powerful insights!
+Thank you for your interest in Seer. Together, let’s transform how we interact with data!
