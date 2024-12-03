@@ -1,10 +1,10 @@
 # Hi there, Welcome to Seer! 👋
 
-Seer is where data meets innovation. We are dedicated to building cutting-edge tools and platforms that empower users with insights, automation, and scalability. Our mission is to make data accessible and actionable for everyone.
+Seer is where data meets innovation. We are dedicated to building cutting-edge tools and platforms that empower users with insights, automation, and scalability. Our mission is to make data accessible and actionable for Publitek clients and data partners.
 
-## 🌟 Explore Our Projects
+## 🌟 Explore Seer Projects
 
-Here are some key repositories in our organization:
+Here are some key repositories in our organisation:
 
 - **[Seer-Core](https://github.com/Publitek-Seer/Seer-Core)**  
   The backbone of our back-end infrastructure.
